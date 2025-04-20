@@ -1,4 +1,7 @@
-Web3games-onchain-dapp
+
+## Web3games-onchain-dapp
+
+Build with us the next generation of blockchains designed for gaming and digital collectibles
 
 ## How to use
 

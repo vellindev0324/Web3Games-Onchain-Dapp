@@ -15,5 +15,5 @@ npm i
 
 npm start
 ```
-Kindly give the **Star**
+Kindly leave the **Star**
 
